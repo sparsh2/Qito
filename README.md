@@ -2,6 +2,8 @@
 
 Qito is a custom CLI-based password management solution that is quickly accessible via your terminal.
 
+> Fun fact: The name 'qito' is inspired from [Qitou](https://www.ancient-symbols.com/qitou), also called Earth Spirits, who are the guardians of the tombs in China. (qito here guards your passwords instead :p)
+
 ### Why Qito?
 When it comes to your passwords, you should be in control of how it is stored and where it is stored. Qito also provides an awesome CLI interface for quick access to your passwords.
 
