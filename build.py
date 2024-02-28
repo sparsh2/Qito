@@ -30,3 +30,5 @@ go_build_command = (
 if os.system(go_build_command):
 	print("error building")
 	sys.exit()
+
+print('Build successful!')
